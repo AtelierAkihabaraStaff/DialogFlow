@@ -39,7 +39,7 @@ import static com.aldebaran.qi.sdk.object.conversation.ReplyPriority.FALLBACK;
 
 public class DialogflowChatbot extends BaseChatbot {
     private static final String TAG = "DialogflowChatbot";
-    private static final String access_token = "0d856e29d4b24ff483c075afe30ebc14";
+    private static final String access_token = "";
     private final QiContext context;
 
     protected DialogflowChatbot(QiContext context) {
